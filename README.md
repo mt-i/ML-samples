@@ -1,10 +1,10 @@
 # ML-samples
 ML Samples used or tested at mti.
 
-list
+## Application content
 [x] Facial recognition
 
-Tools and Resources
+## Tools and Resources
 [x] Watson api
 [x] Python
 [x] Google lens
